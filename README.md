@@ -33,7 +33,7 @@
  
  
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZms3ajV2Z3A3dG1obnN5OHNqdDM5aWJrY2UxaDQwaHhsYjQzYWhsbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGmfnKZRGwtJ4v6/giphy.webp" />
 <p align="center">
   <h3> I'm 19 years old Full-Stack developer from India.</h3>
 </p>
@@ -58,12 +58,8 @@
 
 <!--  -->
 
-<p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=mayhemantt&&show_icons=true&theme=radical"/>
-  </a>
 
-</p>
+
 
 <br />
 
@@ -71,7 +67,7 @@
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="5" alt="html" style="vertical-align:top; margin:4px">    
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
