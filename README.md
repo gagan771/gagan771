@@ -39,7 +39,7 @@
 
  - 🥀 Learning Web3 & DSA
  
- - <i>with Javascript, Typescript, React and others.</i>
+ - <i> Javascript, Typescript, React and others.</i>
    
  - 🔭 Grinding to add new achievements every day.😼
 
