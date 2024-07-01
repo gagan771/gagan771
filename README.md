@@ -47,7 +47,7 @@
  
  - I do fullstack and a bit of everything :heart:
  
- - All About living life at its best.
+ - All About living life at its best
  
 
  
